@@ -1,16 +1,25 @@
-# H1 Heading\
-## H2 Heading\
-### H3 Heading\
-#### H4 Heading\
-##### H5 Heading\
-###### H6 Heading\
+# H1 Heading
+## H2 Heading
+### H3 Heading
+#### H4 Heading
+##### H5 Heading
+###### H6 Heading
 Bold: **bold text**\
 Italic: *italicized text*\
 Strikethrough: ~~strikethrough text~~\
 Bold and Italic: ***bold and italicized text***\
-> This is a quoted text.\
-print("Hello, world!")\
+> This is a quoted text.
+> 
+\```print("Hello, world!")```
+
+
 [Google](https://www.google.com/)
+
+
+![Alt text](https://cdn.stocksnap.io/img-thumbs/960w/abstract-contour_W2CDR89NLY.jpg)
+
+[Go to Section 1](#section-1)\
+[Go to section 2](#section-2)
 
 - Item 1
 - Item 2
