@@ -13,6 +13,7 @@ Bold and Italic: ***bold and italicized text***\
 ```print("Hello, world!")```
 
 
+
 [Google](https://www.google.com/)\
 [Link to Readme](README.md)
 
@@ -35,3 +36,6 @@ Bold and Italic: ***bold and italicized text***\
 - [ ] Task 2
 - [ ] Task 3\
 [Go to image](#image)
+
+
+My name is Zheng, 3rd year CS major at warren. I’m looking forward to work as a group this quarter and interested in using AI tools for our projects.
